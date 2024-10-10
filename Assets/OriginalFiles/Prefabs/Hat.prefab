@@ -313,6 +313,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cam: {fileID: 0}
+  moveSpeed: 8
+  bombAvoidanceRadius: 6
+  bombAvoidanceStrength: 8
 --- !u!114 &6084278231543153259
 MonoBehaviour:
   m_ObjectHideFlags: 0
